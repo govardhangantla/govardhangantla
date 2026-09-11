@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Govardhan Raju
 
-### Software Engineer | Java | DSA | Full Stack
+### Software Engineer | Java | DSA | MERN Full Stack
 
 🚀 Building • Learning • Solving
 
