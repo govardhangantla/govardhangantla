@@ -1,49 +1,52 @@
-# Hi, I'm Govardhan Raju 👋
+                 👋 Hi, I'm Govardhan Raju
 
-### Software Engineer | Java & DSA | Full Stack Developer
+       Software Engineer | Java | DSA | Full Stack
 
-I'm a B.Tech CSE student passionate about building software,
-solving problems, and continuously learning new technologies.
+       🚀 Building • Learning • Solving
 
-## 🚀 Currently Learning
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- Java + Data Structures & Algorithms
-- Full Stack Web Development
-- React.js
-- Node.js & Express.js
-- MongoDB
+                  🛠️ TECH STACK
 
-## 🛠️ Tech Stack
+        ☕ Java    🌐 HTML    🎨 CSS
+        ⚡ JavaScript    ⚛️ React
+        🟢 Node.js    🚂 Express.js
+        🍃 MongoDB    🔧 Git    🐙 GitHub
 
-### Languages
-Java • JavaScript • HTML • CSS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Frontend
-React.js • HTML • CSS • Bootstrap
+                    💻 IDE
 
-### Backend
-Node.js • Express.js
+       Visual Studio Code
 
-### Database
-MongoDB
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Tools
-Git • GitHub • VS Code
+                   SOCIAL
 
-## 📌 Featured Projects
+       GitHub • LeetCode • LinkedIn
 
-- 🌐 Full Stack Journey
-- 💼 Developer Portfolio
-- 🧮 Calculator
-- 🧠 DSA in Java
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🎯 Goals
+              📊 GitHub Statistics
 
-- Master DSA with Java
-- Build real-world projects
-- Contribute to open source
-- Get a software development internship
+              Contributions
+              Repositories
+              Languages
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                 🧠 DSA
+
+       LeetCode • CodeChef • Problem Solving
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+              🚀 Featured Projects
+
+       Full-Stack-Journey
+       DSA-PREP
+       GOVARDHAN-PORTFOLIO
+       Hack_Mates
 ## 📫 Connect With Me
 
 - LinkedIn
