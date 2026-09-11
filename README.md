@@ -59,6 +59,9 @@
 <a href="https://www.linkedin.com/in/govardhanraju-gantla-4879b738a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://www.codechef.com/users/govardhan_code">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 </div>
 
