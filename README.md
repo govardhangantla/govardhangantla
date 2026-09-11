@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Govardhan Raju 👋
 
-<!--
-**govardhangantla/govardhangantla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java & DSA | Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a B.Tech CSE student passionate about building software,
+solving problems, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Java + Data Structures & Algorithms
+- Full Stack Web Development
+- React.js
+- Node.js & Express.js
+- MongoDB
+
+## 🛠️ Tech Stack
+
+### Languages
+Java • JavaScript • HTML • CSS
+
+### Frontend
+React.js • HTML • CSS • Bootstrap
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB
+
+### Tools
+Git • GitHub • VS Code
+
+## 📌 Featured Projects
+
+- 🌐 Full Stack Journey
+- 💼 Developer Portfolio
+- 🧮 Calculator
+- 🧠 DSA in Java
+
+## 🎯 Goals
+
+- Master DSA with Java
+- Build real-world projects
+- Contribute to open source
+- Get a software development internship
+
+## 📫 Connect With Me
+
+- LinkedIn
+- LeetCode
+- GitHub
+
+---
+
+### Code. Learn. Build. Repeat. 🚀
