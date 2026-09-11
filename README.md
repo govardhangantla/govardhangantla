@@ -66,27 +66,6 @@
 
 <div align="center">
 
-## 📊 GITHUB STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=govardhangantla&show_icons=true&theme=dark&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govardhangantla&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 CONTRIBUTIONS
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=govardhangantla&theme=github-dark&hide_border=true" />
-
-</div>
-
----
 
 <div align="center">
 
