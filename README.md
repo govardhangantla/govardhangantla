@@ -22,15 +22,7 @@
 
 <img src="https://skillicons.dev/icons?i=react" />
 
-### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,git,github" />
-
-</div>
 
 ---
 
